@@ -1,0 +1,6 @@
+Please copy these fonts to your project's assets folder, and rename them exactly as below:
+
+Roboto-Regular
+Roboto-Medium
+Roboto-Light
+OPPOSans-R

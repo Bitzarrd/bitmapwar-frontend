@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- bitmapwar-error-tips-1920/tips.xml -->
+  <string name="37xyjzjsq3nd4-n3_i5gy" mz="n3">该功能还未开放，请等待官方通知.</string>
+  <!-- bitmapwar-web1-1920/ActionPanel.xml -->
+  <string name="speymq05rw7921-n95_m1af" mz="n95">操作</string>
+  <string name="speymq05rw7921-n97_m1af" mz="n97">队伍:</string>
+  <string name="speymq05rw7921-n98_m1af" mz="n98">Bitmap:</string>
+  <string name="speymq05rw7921-n106_m1af" mz="n106">拥有者:</string>
+  <string name="speymq05rw7921-n108_m1af" mz="n108">士兵数:</string>
+  <string name="speymq05rw7921-n110_m1af" mz="n110">放下士兵:</string>
+  <string name="speymq05rw7921-n122_zk2i-0" mz="n122">单个放置</string>
+  <string name="speymq05rw7921-n122_zk2i-1" mz="n122">批量放置</string>
+  <!-- bitmapwar-web1-1920/BackBtn.xml -->
+  <string name="speymq05rw791l-n116_m1af" mz="n116">BITMAP EXPLORER</string>
+  <!-- bitmapwar-web1-1920/BattleLogDrawItem.xml -->
+  <string name="speymq05siuld-n33_g74k" mz="n2">平</string>
+  <string name="speymq05siuld-n68_g74k" mz="n4">VS</string>
+  <!-- bitmapwar-web1-1920/BattleLogLoseItem.xml -->
+  <string name="speymq05siule-n29_g74k" mz="n2">败</string>
+  <string name="speymq05siule-n67_g74k" mz="n4">VS</string>
+  <!-- bitmapwar-web1-1920/BattleLogWinItem.xml -->
+  <string name="speymq05siulf-n28_g74k" mz="n2">赢</string>
+  <string name="speymq05siulf-n41_g74k" mz="n4">VS</string>
+  <!-- bitmapwar-web1-1920/BattleMessage.xml -->
+  <string name="speymq05siuli-n19_g74k" mz="n19">消息</string>
+  <string name="speymq05siuli-n20_g74k" mz="n20">时间</string>
+  <string name="speymq05siuli-n21_g74k" mz="n21">结果</string>
+  <string name="speymq05siuli-n22_g74k" mz="n22">你</string>
+  <string name="speymq05siuli-n23_g74k" mz="n23">敌方</string>
+  <string name="speymq05siuli-n24_g74k" mz="n24">士兵损失</string>
+  <string name="speymq05siuli-n29_i8v4" mz="n29">请登录</string>
+  <!-- bitmapwar-web1-1920/BtnChangeLang.xml -->
+  <string name="speymq058q7i4k-n1_8q7i" mz="n1">EN/CN</string>
+  <!-- bitmapwar-web1-1920/BtnConnectWallet.xml -->
+  <string name="speymq05rw7923-n115_m1af" mz="n115">连接钱包</string>
+  <!-- bitmapwar-web1-1920/BtnHelp.xml -->
+  <string name="speymq05rw7928-n151_m1af" mz="n151">帮助</string>
+  <!-- bitmapwar-web1-1920/BtnLogout.xml -->
+  <string name="speymq05rw7924-n157_m1af" mz="n157">登出</string>
+  <!-- bitmapwar-web1-1920/BtnRent.xml -->
+  <string name="speymq05mitlh-n32_kpdz" mz="n32">租赁</string>
+  <!-- bitmapwar-web1-1920/ChannelBtn.xml -->
+  <string name="speymq05m4ye4r-n1_m4ye" mz="title">ALL</string>
+  <!-- bitmapwar-web1-1920/ChatPanel.xml -->
+  <string name="speymq05m4ye4t-n182_m4ye" mz="n182">ALL</string>
+  <string name="speymq05m4ye4t-n183_m4ye" mz="n183">Team</string>
+  <!-- bitmapwar-web1-1920/GameStart.xml -->
+  <string name="speymq05k74v2s-n0_k74v" mz="n0">开始战斗</string>
+  <!-- bitmapwar-web1-1920/LandList.xml -->
+  <string name="speymq05rw791s-n14_m1af" mz="n14">地块列表</string>
+  <string name="speymq05rw791s-n16_m1af" mz="n16">队伍</string>
+  <string name="speymq05rw791s-n17_m1af" mz="n17">地块</string>
+  <string name="speymq05rw791s-n30_m1af" mz="n30">士兵</string>
+  <string name="speymq05rw791s-n50_m1af" mz="n50">士兵损失</string>
+  <!-- bitmapwar-web1-1920/LastJointedItem.xml -->
+  <string name="speymq05m4ye4l-n170_m4ye" mz="n170">0x232iower.....12929</string>
+  <!-- bitmapwar-web1-1920/LastPlace.xml -->
+  <string name="speymq05m4ye4m-n168_m4ye" mz="n168">Last Joined</string>
+  <!-- bitmapwar-web1-1920/LastRankingListItem.xml -->
+  <string name="speymq05xyy32m-n33_m1af" mz="owner_1">0x2f3..00955</string>
+  <string name="speymq05xyy32m-n71_knxw" mz="owner_2">0x2f3..00955</string>
+  <string name="speymq05xyy32m-n74_knxw" mz="owner_3">0x2f3..00955</string>
+  <string name="speymq05xyy32m-n77_knxw" mz="owner_x">0x2f3..00955</string>
+  <!-- bitmapwar-web1-1920/LastRankingPanel.xml -->
+  <string name="speymq05rw791u-n15_m1af" mz="n15">上一局排名</string>
+  <string name="speymq05rw791u-n31_m1af" mz="n31">ID</string>
+  <string name="speymq05rw791u-n32_m1af" mz="n32">排名</string>
+  <string name="speymq05rw791u-n49_m1af" mz="n49">利润</string>
+  <!-- bitmapwar-web1-1920/LeaderRankingBtn.xml -->
+  <string name="speymq05zk2i44-n163_zk2i" mz="n163">排名</string>
+  <!-- bitmapwar-web1-1920/LoginMethod.xml -->
+  <string name="speymq05zk2i3u-n1_zk2i" mz="title">链接钱包</string>
+  <!-- bitmapwar-web1-1920/LoginMethod_item.xml -->
+  <string name="speymq05zk2i3s-n2_zk2i" mz="title">阵营</string>
+  <!-- bitmapwar-web1-1920/MsgLost.xml -->
+  <string name="speymq05siulg-n13_g74k" mz="n13">Your land is under attack !!!</string>
+  <!-- bitmapwar-web1-1920/MsgWin.xml -->
+  <string name="speymq05siulh-n16_g74k" mz="n16">You win !</string>
+  <!-- bitmapwar-web1-1920/SearchPanel.xml -->
+  <string name="speymq05rw791x-n78_m1af-prompt" mz="n78">搜索地块(数字)</string>
+  <!-- bitmapwar-web1-1920/SendBtn.xml -->
+  <string name="speymq05m4ye4s-n1_m4ye" mz="n1">Send</string>
+  <!-- bitmapwar-web1-1920/Submitbtn.xml -->
+  <string name="speymq05rw791z-n93_m1af" mz="n93">确定</string>
+  <!-- bitmapwar-web1-1920/Timer.xml -->
+  <string name="speymq05rw791r-n61_m1af" mz="n61">时间: </string>
+  <string name="speymq05rw791r-n64_m1af" mz="n64">下一局: </string>
+  <string name="speymq05rw791r-n66_m1af" mz="n66">回合:</string>
+  <!-- bitmapwar-web1-1920/Toast.xml -->
+  <string name="speymq05xyy32o-n0_xyy3" mz="n1">Non-open Function</string>
+  <!-- bitmapwar-web1-1920/TopBar.xml -->
+  <string name="speymq05rw7922-n161_zk2i" mz="n161">链接钱包</string>
+  <string name="speymq05rw7922-n161_zk2i-0" mz="n161">Unisat</string>
+  <string name="speymq05rw7922-n161_zk2i-1" mz="n161">Okx</string>
+  <string name="speymq05rw7922-n164_st48" mz="n164">帮助</string>
+  <string name="speymq05rw7922-n164_st48-0" mz="n164">队伍</string>
+  <string name="speymq05rw7922-n164_st48-1" mz="n164">规则</string>
+  <string name="speymq05rw7922-n164_st48-2" mz="n164">奖励</string>
+  <string name="speymq05rw7922-n164_st48-3" mz="n164">Jackpot</string>
+  <!-- bitmapwar-web1-1920/TopBarHelp_item.xml -->
+  <string name="speymq05st4847-n1_st48" mz="title">Test</string>
+  <!-- bitmapwar-web1-1920/Unseen.xml -->
+  <string name="speymq05xyy32n-n35_m1af" mz="n35">0x2f3..00955</string>
+  <string name="speymq05xyy32n-n37_m1af" mz="n37">0x2f3..00955</string>
+  <string name="speymq05xyy32n-n40_m1af" mz="n40">0x2f3..00955</string>
+  <string name="speymq05xyy32n-n43_m1af" mz="n43">0x2f3..00955</string>
+  <string name="speymq05xyy32n-n46_m1af" mz="n46">0x2f3..00955</string>
+  <!-- bitmapwar-web1-1920/UserInfoPanel.xml -->
+  <string name="speymq05rw791v-n76_m1af" mz="n76">利润(BTC)</string>
+  <string name="speymq05rw791v-n77_m1af" mz="n77">每日分享奖励:</string>
+  <string name="speymq05rw791v-n79_m1af" mz="n79">500 士兵</string>
+  <string name="speymq05rw791v-n82_m1af" mz="n82">士兵</string>
+  <string name="speymq05rw791v-n87_m1af" mz="n87">Bitmaps</string>
+  <string name="speymq05rw791v-n92_m1af" mz="n92">用户信息</string>
+  <!-- bitmapwar-web1-1920/bitmapwar-web1-1920.xml -->
+  <string name="speymq05rw791k-n113_m1af" mz="n113">0x86d3886d56721dd43a94d76f6ac30caa54af8620</string>
+  <string name="speymq05rw791k-n162_knxw" mz="n162">地块数: {count=0}</string>
+  <!-- bitmapwar-web1-1920/bitmapwar-web5-1920.xml -->
+  <string name="speymq05onf04f-n6_smas" mz="n6">利润</string>
+  <string name="speymq05onf04f-n7_smas" mz="n7">时间</string>
+  <string name="speymq05onf04f-n8_smas" mz="n8">组队</string>
+  <string name="speymq05onf04f-n9_smas" mz="n9">利润</string>
+  <string name="speymq05onf04f-n10_smas" mz="n10">士兵损失</string>
+  <!-- bitmapwar-web2-1920/BL_Cancel.xml -->
+  <string name="s1e2pgprrw791f-n10_atie" mz="n10">取消</string>
+  <!-- bitmapwar-web2-1920/BL_Confirm.xml -->
+  <string name="s1e2pgprrw791e-n8_atie" mz="n8">确定</string>
+  <!-- bitmapwar-web2-1920/BitmapList.xml -->
+  <string name="s1e2pgprrw791c-n4_atie" mz="n4">地块列表</string>
+  <string name="s1e2pgprrw791c-n5_atie" mz="n5">地图:</string>
+  <!-- bitmapwar-web2-1920/CongratsPanel.xml -->
+  <string name="s1e2pgprrw7916-n120_atie" mz="n120">恭喜</string>
+  <string name="s1e2pgprrw7916-n127_atie" mz="n127">地块：</string>
+  <string name="s1e2pgprrw7916-n128_atie" mz="n128">赢家:</string>
+  <string name="s1e2pgprrw7916-n129_atie" mz="n129">Jackpot:</string>
+  <string name="s1e2pgprrw7916-n130_atie" mz="n130">0x86d3886d56721dd43a94d76f6ac30caa54af8620</string>
+  <string name="s1e2pgprrw7916-n133_i8v4" mz="n133">Jackpot(BW):</string>
+  <string name="s1e2pgprrw7916-n135_m4ye" mz="n135">Winner(BW):</string>
+  <!-- bitmapwar-web2-1920/DropMapListItem.xml -->
+  <string name="s1e2pgprrw791i-n16_atie" mz="title">#12345  (soldier: 99)</string>
+  <!-- bitmapwar-web2-1920/ExtractCancel.xml -->
+  <string name="s1e2pgprk74v1r-n81_k74v" mz="n81">取消</string>
+  <!-- bitmapwar-web2-1920/ExtractItem.xml -->
+  <string name="s1e2pgprk74v1p-n67_atie" mz="txid">0x86d...c8319</string>
+  <string name="s1e2pgprk74v1p-n69_atie" mz="status">xxxxxxxx</string>
+  <string name="s1e2pgprk74v1p-n70_atie" mz="create_time">xxxxxxxxxxxxx</string>
+  <string name="s1e2pgprk74v1p-n71_atie" mz="operations">xxxxxxxxxxxxx</string>
+  <!-- bitmapwar-web2-1920/ExtractOK.xml -->
+  <string name="s1e2pgprk74v1s-n88_k74v" mz="n88">确定</string>
+  <!-- bitmapwar-web2-1920/ExtractProfit.xml -->
+  <string name="s1e2pgprrw7918-n51_atie" mz="n51">提现</string>
+  <string name="s1e2pgprrw7918-n52_atie" mz="n52">利润:</string>
+  <string name="s1e2pgprrw7918-n53_atie" mz="n53">输入金额:</string>
+  <string name="s1e2pgprrw7918-n54_atie" mz="n54">费用:</string>
+  <string name="s1e2pgprrw7918-n55_atie" mz="n55">ID</string>
+  <string name="s1e2pgprrw7918-n56_atie" mz="n56">TXID</string>
+  <string name="s1e2pgprrw7918-n57_atie" mz="n57">数量</string>
+  <string name="s1e2pgprrw7918-n58_atie" mz="n58">状态</string>
+  <string name="s1e2pgprrw7918-n59_atie" mz="n59">创建时间</string>
+  <string name="s1e2pgprrw7918-n60_atie" mz="n60">操作</string>
+  <string name="s1e2pgprrw7918-n63_atie" mz="n63">请在提现过程中不要关闭浏览器或刷新页面。如果遇到任何问题，请点击订单中的“重新提交”按钮以重试操作。</string>
+  <string name="s1e2pgprrw7918-n84_atie" mz="n84">0.000079200000000001 BTC</string>
+  <string name="s1e2pgprrw7918-n85_atie" mz="n85">0.004 BTC</string>
+  <!-- bitmapwar-web2-1920/LastRankingListItem.xml -->
+  <string name="s1e2pgprzk2i2g-n33_m1af" mz="owner_1">0x2f3..00955</string>
+  <string name="s1e2pgprzk2i2g-n71_knxw" mz="owner_2">0x2f3..00955</string>
+  <string name="s1e2pgprzk2i2g-n74_knxw" mz="owner_3">0x2f3..00955</string>
+  <string name="s1e2pgprzk2i2g-n77_knxw" mz="owner_x">0x2f3..00955</string>
+  <!-- bitmapwar-web2-1920/LeaderRankingItem.xml -->
+  <string name="s1e2pgprzk2i2k-n33_m1af" mz="owner_1">0x2f3..00955</string>
+  <string name="s1e2pgprzk2i2k-n71_knxw" mz="owner_2">0x2f3..00955</string>
+  <string name="s1e2pgprzk2i2k-n74_knxw" mz="owner_3">0x2f3..00955</string>
+  <string name="s1e2pgprzk2i2k-n77_knxw" mz="owner_x">0x2f3..00955</string>
+  <!-- bitmapwar-web2-1920/NetworkError.xml -->
+  <string name="s1e2pgprrw7919-n43_atie" mz="n43">网络消息</string>
+  <string name="s1e2pgprrw7919-n49_atie" mz="n49">There is an abnormality in your network, please try again later or refresh the page and check again.</string>
+  <!-- bitmapwar-web2-1920/PurchaseCancel.xml -->
+  <string name="s1e2pgprk74v1w-n162_atie" mz="n162">取消</string>
+  <!-- bitmapwar-web2-1920/PurchaseItem.xml -->
+  <string name="s1e2pgprk74v1y-n146_atie" mz="txid">0x86d...c8319</string>
+  <string name="s1e2pgprk74v1y-n149_atie" mz="create_time">xxxxxxxxxxxxx</string>
+  <string name="s1e2pgprk74v1y-n150_atie" mz="status">xxxxxxxxxxxxx</string>
+  <!-- bitmapwar-web2-1920/PurchaseOK.xml -->
+  <string name="s1e2pgprk74v1x-n160_atie" mz="n160">确定</string>
+  <!-- bitmapwar-web2-1920/PurchasePanel.xml -->
+  <string name="s1e2pgprrw7915-n133_atie" mz="n133">购买</string>
+  <string name="s1e2pgprrw7915-n134_atie" mz="n134">ID</string>
+  <string name="s1e2pgprrw7915-n135_atie" mz="n135">TXID</string>
+  <string name="s1e2pgprrw7915-n136_atie" mz="n136">Fee</string>
+  <string name="s1e2pgprrw7915-n137_atie" mz="n137">士兵</string>
+  <string name="s1e2pgprrw7915-n138_atie" mz="n138">创建时间</string>
+  <string name="s1e2pgprrw7915-n139_atie" mz="n139">状态</string>
+  <string name="s1e2pgprrw7915-n142_atie" mz="n142">在充值过程中，请不要关闭浏览器或刷新页面。如果遇到任何问题，请点击订单中的“搜索”按钮。</string>
+  <string name="s1e2pgprrw7915-n165_atie" mz="n165">1 = {t=0.004} BTC</string>
+  <string name="s1e2pgprrw7915-n167_i9x0" mz="n167">购买数量</string>
+  <string name="s1e2pgprrw7915-n168_i9x0" mz="n168">购买方式</string>
+  <string name="s1e2pgprrw7915-n170_i9x0-0" mz="n170">利润</string>
+  <string name="s1e2pgprrw7915-n170_i9x0-1" mz="n170">钱包</string>
+  <!-- bitmapwar-web2-1920/SearchTxPanel.xml -->
+  <string name="s1e2pgprrw791b-n26_atie" mz="n26">搜索Tx</string>
+  <string name="s1e2pgprrw791b-n29_atie" mz="n29">确定</string>
+  <string name="s1e2pgprrw791b-n31_atie" mz="n31">取消</string>
+  <string name="s1e2pgprrw791b-n33_atie" mz="n33">Please enter the blockchain order hash starting with '0x</string>
+  <!-- bitmapwar-web2-1920/SettlementPanel.xml -->
+  <string name="s1e2pgprrw7917-n90_atie" mz="n90">结算</string>
+  <string name="s1e2pgprrw7917-n91_atie" mz="n91">排名</string>
+  <string name="s1e2pgprrw7917-n92_atie" mz="n92">队伍</string>
+  <string name="s1e2pgprrw7917-n93_atie" mz="n93">地块</string>
+  <string name="s1e2pgprrw7917-n94_atie" mz="n94">存活士兵</string>
+  <string name="s1e2pgprrw7917-n95_atie" mz="n95">阵亡士兵</string>
+  <string name="s1e2pgprrw7917-n112_atie" mz="textResult">你的地块: {myland=0}
+你的士兵: {mys=0}
+你的损失: {mylost=0}
+你的获利(BTC):</string>
+  <!-- bitmapwar-web2-1920/TabRankingBtn.xml -->
+  <string name="s1e2pgprzk2i2b-n9_l1fp" mz="n9">利润</string>
+  <!-- bitmapwar-web2-1920/TipCancel.xml -->
+  <string name="s1e2pgprrw791k-n40_atie" mz="n40">取消</string>
+  <!-- bitmapwar-web2-1920/TipsConfirm.xml -->
+  <string name="s1e2pgprrw791l-n38_atie" mz="n38">确定</string>
+  <!-- bitmapwar-web2-1920/TipsPanel.xml -->
+  <string name="s1e2pgprrw791a-n35_atie" mz="n35">贴士</string>
+  <string name="s1e2pgprrw791a-n41_atie" mz="n41">在放置士兵之后，您的阵营在这场战斗中无法修改。
+    一旦放置，士兵将开始移动并占领地块。当您遭遇敌方阵营时，士兵数量少的地块将扣除士兵并停止移动。</string>
+  <!-- bitmapwar-web2-1920/TotalRankingPage.xml -->
+  <string name="s1e2pgprzk2ig-n13_l1fp" mz="n13">排名</string>
+  <string name="s1e2pgprzk2ig-n14_l1fp" mz="n14">ID</string>
+  <string name="s1e2pgprzk2ig-n15_l1fp" mz="n15">利润</string>
+  <string name="s1e2pgprzk2ig-n18_zk2i" mz="n18">利润</string>
+  <string name="s1e2pgprzk2ig-n19_zk2i" mz="n19">积分</string>
+  <string name="s1e2pgprzk2ig-n20_zk2i" mz="n20">Jackpot</string>
+  <string name="s1e2pgprzk2ig-n21_zk2i" mz="n21">Jackpot(BW)</string>
+  <string name="s1e2pgprzk2ig-n23_zk2i" mz="n23">你的排名:</string>
+  <string name="s1e2pgprzk2ig-n25_zk2i" mz="n25">序列</string>
+  <string name="s1e2pgprzk2ig-n26_zk2i" mz="n26">积分</string>
+  <string name="s1e2pgprzk2ig-n27_zk2i" mz="n27">Jackpot</string>
+  <!-- bitmapwar-web4-1920/bitmapwar-web4-1920.xml -->
+  <string name="f4vhmrf0siulc-n7_g74k" mz="n7">无消息...</string>
+  <string name="f4vhmrf0siulc-n10_g74k" mz="n10">无消息</string>
+  <!-- bitmapwar-web5-1920/GetProfitPanel.xml -->
+  <string name="merndwu5i9x0i-n6_smas" mz="n6">利润</string>
+  <string name="merndwu5i9x0i-n7_smas" mz="n7">时间</string>
+  <string name="merndwu5i9x0i-n8_smas" mz="n8">队伍</string>
+  <string name="merndwu5i9x0i-n9_smas" mz="n9">利润</string>
+  <string name="merndwu5i9x0i-n10_smas" mz="n10">士兵损失</string>
+  <!-- bitmapwar-web7-1920/BtnQuery.xml -->
+  <string name="u6q4du6jmitli-n11_kpdz" mz="n11">查询</string>
+  <!-- bitmapwar-web7-1920/BtnRentCancle.xml -->
+  <string name="u6q4du6jmitlj-n16_kpdz" mz="n16">取消</string>
+  <!-- bitmapwar-web7-1920/BtnRentConfirm.xml -->
+  <string name="u6q4du6jmitll-n14_kpdz" mz="n14">确定</string>
+  <!-- bitmapwar-web7-1920/ComboRentDays_item.xml -->
+  <string name="u6q4du6jmitlo-n1_mitl" mz="title">7 Days</string>
+  <!-- bitmapwar-web7-1920/RentPanel.xml -->
+  <string name="u6q4du6jmitlg-n8_kpdz" mz="n8"></string>
+  <string name="u6q4du6jmitlg-n12_kpdz" mz="n12">地图ID:</string>
+  <string name="u6q4du6jmitlg-n17_kpdz" mz="n17">租期:</string>
+  <string name="u6q4du6jmitlg-n18_kpdz" mz="n18">租用价格:</string>
+  <string name="u6q4du6jmitlg-n20_kpdz" mz="n20">7 天</string>
+  <string name="u6q4du6jmitlg-n27_kpdz" mz="n27">*闲置</string>
+  <string name="u6q4du6jmitlg-n33_mitl-prompt" mz="n33">输入地图ID</string>
+  <string name="u6q4du6jmitlg-n34_mitl" mz="n34">7 天</string>
+  <string name="u6q4du6jmitlg-n34_mitl-0" mz="n34">7 天</string>
+  <string name="u6q4du6jmitlg-n34_mitl-1" mz="n34">15 天</string>
+  <string name="u6q4du6jmitlg-n34_mitl-2" mz="n34">30 天</string>
+  <string name="u6q4du6jmitlg-n36_mitl-0" mz="n36">能量</string>
+  <string name="u6q4du6jmitlg-n36_mitl-1" mz="n36">Btc</string>
+  <string name="u6q4du6jmitlg-n36_mitl-2" mz="n36">利润</string>
+  <!-- bitmapwar-web7-1920/bitmapwar-web7-1920.xml -->
+  <string name="u6q4du6jmitlf-n4_kpdz" mz="n4">地块</string>
+  <string name="u6q4du6jmitlf-n22_kpdz" mz="n22">能量</string>
+  <string name="u6q4du6jmitlf-n26_kpdz" mz="n26">输入地图ID</string>
+</resources>

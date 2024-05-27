@@ -1,0 +1,65 @@
+{"type":"root","options":{
+
+},"size":{"width":750,"height":1286},"children":[{"name":"Message scroll bar","type":"png","options":{
+
+},"offset":{"left":686,"top":259},"size":{"width":8,"height":48},"relativePath":"Message scroll bar","children":[
+
+]},{"name":"date dele","type":"png","options":{
+
+},"offset":{"left":58,"top":886},"size":{"width":624,"height":42},"relativePath":"date dele","children":[
+
+]},{"name":"date dele","type":"png","options":{
+
+},"offset":{"left":58,"top":796},"size":{"width":624,"height":80},"relativePath":"date dele (2)","children":[
+
+]},{"name":"date dele","type":"png","options":{
+
+},"offset":{"left":58,"top":706},"size":{"width":624,"height":80},"relativePath":"date dele (3)","children":[
+
+]},{"name":"date dele","type":"png","options":{
+
+},"offset":{"left":58,"top":616},"size":{"width":624,"height":80},"relativePath":"date dele (4)","children":[
+
+]},{"name":"date dele","type":"png","options":{
+
+},"offset":{"left":58,"top":526},"size":{"width":624,"height":80},"relativePath":"date dele (5)","children":[
+
+]},{"name":"date dele","type":"png","options":{
+
+},"offset":{"left":58,"top":436},"size":{"width":624,"height":80},"relativePath":"date dele (6)","children":[
+
+]},{"name":"date dele","type":"png","options":{
+
+},"offset":{"left":58,"top":346},"size":{"width":624,"height":80},"relativePath":"date dele (7)","children":[
+
+]},{"name":"Soldier: 1234567890","type":"text","options":{"opacity":100,"textContents":"Enemy: 1234567890","textFont":"Roboto-Light","textSize":22,"textColor":{"red":194,"green":194,"blue":194}},"offset":{"left":457,"top":269},"size":{"width":197,"height":22},"relativePath":"Soldier 1234567890","children":[
+
+]},{"name":"Time: xxxxxxxx","type":"text","options":{"opacity":100,"textContents":"Soldier Loss: 123456789","textFont":"Roboto-Light","textSize":22,"textColor":{"red":194,"green":194,"blue":194}},"offset":{"left":383,"top":305},"size":{"width":237,"height":18},"relativePath":"Time xxxxxxxx","children":[
+
+]},{"name":"Fee: 999999","type":"text","options":{"opacity":100,"textContents":"Result: Draw","textFont":"Roboto-Light","textSize":22,"textColor":{"red":194,"green":194,"blue":194}},"offset":{"left":223,"top":305},"size":{"width":120,"height":18},"relativePath":"Fee 999999","children":[
+
+]},{"name":"TXID: 0x8...11449","type":"text","options":{"opacity":100,"textContents":"vs","textFont":"Roboto-Light","textSize":22,"textColor":{"red":194,"green":194,"blue":194}},"offset":{"left":407,"top":272},"size":{"width":22,"height":13},"relativePath":"TXID 0x8...11449","children":[
+
+]},{"name":"TXID: 0x8...11449","type":"text","options":{"opacity":100,"textContents":"You: 123456789","textFont":"Roboto-Light","textSize":22,"textColor":{"red":194,"green":194,"blue":194}},"offset":{"left":221,"top":269},"size":{"width":157,"height":17},"relativePath":"TXID 0x8...11449 (2)","children":[
+
+]},{"name":"ID: 0x86d...c8319","type":"text","options":{"opacity":100,"textContents":"20:59:23","textFont":"Roboto-Light","textSize":22,"textColor":{"red":255,"green":255,"blue":255}},"offset":{"left":83,"top":288},"size":{"width":82,"height":17},"relativePath":"ID 0x86d...c8319","children":[
+
+]},{"name":"Message date bg dele","type":"png","options":{
+
+},"offset":{"left":58,"top":256},"size":{"width":624,"height":80},"relativePath":"Message date bg dele","children":[
+
+]},{"name":"Purchase","type":"text","options":{"opacity":100,"textContents":"Message","textFont":"Roboto-Medium","textSize":28,"textColor":{"red":255,"green":255,"blue":255}},"offset":{"left":57,"top":191},"size":{"width":112,"height":26},"relativePath":"Purchase","children":[
+
+]},{"name":"Message button_close","type":"png","options":{
+
+},"offset":{"left":686,"top":155},"size":{"width":40,"height":40},"relativePath":"Message button_close","children":[
+
+]},{"name":"Message bg","type":"png","options":{
+
+},"offset":{"left":321,"top":447},"size":{"width":124,"height":124},"relativePath":"Message bg","children":[
+
+]},{"name":"Message bg dele","type":"png","options":{
+
+},"offset":{"left":10,"top":136},"size":{"width":746,"height":866},"relativePath":"Message bg dele","children":[
+
+]}]}

@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- bitmapwar-error-tips-1920/tips.xml -->
+  <string name="37xyjzjsq3nd4-n3_i5gy" mz="n3">This function is not available yet, please wait for the official announcement.</string>
+  <!-- bitmapwar-web1-1920/ActionPanel.xml -->
+  <string name="speymq05rw7921-n95_m1af" mz="n95">Action</string>
+  <string name="speymq05rw7921-n97_m1af" mz="n97">Team:</string>
+  <string name="speymq05rw7921-n98_m1af" mz="n98">Bitmap:</string>
+  <string name="speymq05rw7921-n106_m1af" mz="n106">Owner:</string>
+  <string name="speymq05rw7921-n108_m1af" mz="n108">Soldier:</string>
+  <string name="speymq05rw7921-n110_m1af" mz="n110">Place soldiers:</string>
+  <string name="speymq05rw7921-n122_zk2i-0" mz="n122">Place Soldiers</string>
+  <string name="speymq05rw7921-n122_zk2i-1" mz="n122">Batch Place</string>
+  <!-- bitmapwar-web1-1920/BackBtn.xml -->
+  <string name="speymq05rw791l-n116_m1af" mz="n116">BITMAP EXPLORER</string>
+  <!-- bitmapwar-web1-1920/BattleLogDrawItem.xml -->
+  <string name="speymq05siuld-n33_g74k" mz="n2">Draw</string>
+  <string name="speymq05siuld-n68_g74k" mz="n4">VS</string>
+  <!-- bitmapwar-web1-1920/BattleLogLoseItem.xml -->
+  <string name="speymq05siule-n29_g74k" mz="n2">Lose</string>
+  <string name="speymq05siule-n67_g74k" mz="n4">VS</string>
+  <!-- bitmapwar-web1-1920/BattleLogWinItem.xml -->
+  <string name="speymq05siulf-n28_g74k" mz="n2">Win</string>
+  <string name="speymq05siulf-n41_g74k" mz="n4">VS</string>
+  <!-- bitmapwar-web1-1920/BattleMessage.xml -->
+  <string name="speymq05siuli-n19_g74k" mz="n19">Message</string>
+  <string name="speymq05siuli-n20_g74k" mz="n20">Time</string>
+  <string name="speymq05siuli-n21_g74k" mz="n21">Result</string>
+  <string name="speymq05siuli-n22_g74k" mz="n22">You</string>
+  <string name="speymq05siuli-n23_g74k" mz="n23">Enemy</string>
+  <string name="speymq05siuli-n24_g74k" mz="n24">Soldier Loss</string>
+  <string name="speymq05siuli-n29_i8v4" mz="n29">To view the war report, please log in.</string>
+  <!-- bitmapwar-web1-1920/BtnConnectWallet.xml -->
+  <string name="speymq05rw7923-n115_m1af" mz="n115">Connect Wallet</string>
+  <!-- bitmapwar-web1-1920/BtnHelp.xml -->
+  <string name="speymq05rw7928-n151_m1af" mz="n151">Help</string>
+  <!-- bitmapwar-web1-1920/BtnLogout.xml -->
+  <string name="speymq05rw7924-n157_m1af" mz="n157">Log out</string>
+  <!-- bitmapwar-web1-1920/GameStart.xml -->
+  <string name="speymq05k74v2s-n0_k74v" mz="n0">Start fighting</string>
+  <!-- bitmapwar-web1-1920/LandList.xml -->
+  <string name="speymq05rw791s-n14_m1af" mz="n14">Land List</string>
+  <string name="speymq05rw791s-n16_m1af" mz="n16">Team</string>
+  <string name="speymq05rw791s-n17_m1af" mz="n17">Land</string>
+  <string name="speymq05rw791s-n30_m1af" mz="n30">Live Soldier</string>
+  <string name="speymq05rw791s-n50_m1af" mz="n50">Soldier Loss</string>
+  <!-- bitmapwar-web1-1920/LastRankingListItem.xml -->
+  <string name="speymq05xyy32m-n33_m1af" mz="owner_1">0x2f3..00955</string>
+  <string name="speymq05xyy32m-n71_knxw" mz="owner_2">0x2f3..00955</string>
+  <string name="speymq05xyy32m-n74_knxw" mz="owner_3">0x2f3..00955</string>
+  <string name="speymq05xyy32m-n77_knxw" mz="owner_x">0x2f3..00955</string>
+  <!-- bitmapwar-web1-1920/LastRankingPanel.xml -->
+  <string name="speymq05rw791u-n15_m1af" mz="n15">Profit Last Ranking</string>
+  <string name="speymq05rw791u-n31_m1af" mz="n31">ID</string>
+  <string name="speymq05rw791u-n32_m1af" mz="n32">Ranking</string>
+  <string name="speymq05rw791u-n49_m1af" mz="n49">Profit</string>
+  <!-- bitmapwar-web1-1920/LeaderRankingBtn.xml -->
+  <string name="speymq05zk2i44-n163_zk2i" mz="n163">Ranking</string>
+  <!-- bitmapwar-web1-1920/LoginMethod.xml -->
+  <string name="speymq05zk2i3u-n1_zk2i" mz="title">Connect Wallet</string>
+  <!-- bitmapwar-web1-1920/LoginMethod_item.xml -->
+  <string name="speymq05zk2i3s-n2_zk2i" mz="title">Camp</string>
+  <!-- bitmapwar-web1-1920/MsgLost.xml -->
+  <string name="speymq05siulg-n13_g74k" mz="n13">Your land is under attack !!!</string>
+  <!-- bitmapwar-web1-1920/MsgWin.xml -->
+  <string name="speymq05siulh-n16_g74k" mz="n16">You win !</string>
+  <!-- bitmapwar-web1-1920/SearchPanel.xml -->
+  <string name="speymq05rw791x-n78_m1af-prompt" mz="n78">Search bitmap (Numbers only)</string>
+  <!-- bitmapwar-web1-1920/Submitbtn.xml -->
+  <string name="speymq05rw791z-n93_m1af" mz="n93">Submit</string>
+  <!-- bitmapwar-web1-1920/Timer.xml -->
+  <string name="speymq05rw791r-n61_m1af" mz="n61">Duration: </string>
+  <string name="speymq05rw791r-n64_m1af" mz="n64">Next Round: </string>
+  <string name="speymq05rw791r-n66_m1af" mz="n66">Turn:</string>
+  <!-- bitmapwar-web1-1920/Toast.xml -->
+  <string name="speymq05xyy32o-n0_xyy3" mz="n1">Non-open Function</string>
+  <!-- bitmapwar-web1-1920/TopBar.xml -->
+  <string name="speymq05rw7922-n161_zk2i" mz="n161">Connect Wallet</string>
+  <string name="speymq05rw7922-n161_zk2i-0" mz="n161">Unisat</string>
+  <string name="speymq05rw7922-n161_zk2i-1" mz="n161">Okx</string>
+  <string name="speymq05rw7922-n164_st48" mz="n164">Help
+</string>
+  <string name="speymq05rw7922-n164_st48-0" mz="n164">Team</string>
+  <string name="speymq05rw7922-n164_st48-1" mz="n164">Rule</string>
+  <string name="speymq05rw7922-n164_st48-2" mz="n164">Bonus</string>
+  <string name="speymq05rw7922-n164_st48-3" mz="n164">Jackpot</string>
+  <!-- bitmapwar-web1-1920/TopBarHelp_item.xml -->
+  <string name="speymq05st4847-n1_st48" mz="title">Test</string>
+  <!-- bitmapwar-web1-1920/Unseen.xml -->
+  <string name="speymq05xyy32n-n35_m1af" mz="n35">0x2f3..00955</string>
+  <string name="speymq05xyy32n-n37_m1af" mz="n37">0x2f3..00955</string>
+  <string name="speymq05xyy32n-n40_m1af" mz="n40">0x2f3..00955</string>
+  <string name="speymq05xyy32n-n43_m1af" mz="n43">0x2f3..00955</string>
+  <string name="speymq05xyy32n-n46_m1af" mz="n46">0x2f3..00955</string>
+  <!-- bitmapwar-web1-1920/UserInfoPanel.xml -->
+  <string name="speymq05rw791v-n76_m1af" mz="n76">Profit(BTC)</string>
+  <string name="speymq05rw791v-n77_m1af" mz="n77">Daily Sharing Reward:</string>
+  <string name="speymq05rw791v-n79_m1af" mz="n79">500 Soldier</string>
+  <string name="speymq05rw791v-n82_m1af" mz="n82">Soldier</string>
+  <string name="speymq05rw791v-n87_m1af" mz="n87">Bitmaps</string>
+  <string name="speymq05rw791v-n92_m1af" mz="n92">User Info</string>
+  <!-- bitmapwar-web1-1920/bitmapwar-web1-1920.xml -->
+  <string name="speymq05rw791k-n113_m1af" mz="n113">0x86d3886d56721dd43a94d76f6ac30caa54af8620</string>
+  <string name="speymq05rw791k-n162_knxw" mz="n162">Total Land: {count=0}</string>
+  <!-- bitmapwar-web1-1920/bitmapwar-web5-1920.xml -->
+  <string name="speymq05onf04f-n6_smas" mz="n6">Profit</string>
+  <string name="speymq05onf04f-n7_smas" mz="n7">Time</string>
+  <string name="speymq05onf04f-n8_smas" mz="n8">Team</string>
+  <string name="speymq05onf04f-n9_smas" mz="n9">Profit</string>
+  <string name="speymq05onf04f-n10_smas" mz="n10">Soldier Loss</string>
+  <!-- bitmapwar-web2-1920/BL_Cancel.xml -->
+  <string name="s1e2pgprrw791f-n10_atie" mz="n10">Cancel</string>
+  <!-- bitmapwar-web2-1920/BL_Confirm.xml -->
+  <string name="s1e2pgprrw791e-n8_atie" mz="n8">Confirm</string>
+  <!-- bitmapwar-web2-1920/BitmapList.xml -->
+  <string name="s1e2pgprrw791c-n4_atie" mz="n4">Bitmap List</string>
+  <string name="s1e2pgprrw791c-n5_atie" mz="n5">Maps:</string>
+  <!-- bitmapwar-web2-1920/CongratsPanel.xml -->
+  <string name="s1e2pgprrw7916-n120_atie" mz="n120">Congratulations</string>
+  <string name="s1e2pgprrw7916-n127_atie" mz="n127">Lands：</string>
+  <string name="s1e2pgprrw7916-n128_atie" mz="n128">Winner:</string>
+  <string name="s1e2pgprrw7916-n129_atie" mz="n129">Jackpot:</string>
+  <string name="s1e2pgprrw7916-n130_atie" mz="n130">0x86d3886d56721dd43a94d76f6ac30caa54af8620</string>
+  <string name="s1e2pgprrw7916-n133_i8v4" mz="n133">Jackpot(BW):</string>
+  <!-- bitmapwar-web2-1920/DropMapListItem.xml -->
+  <string name="s1e2pgprrw791i-n16_atie" mz="title">#12345  (soldier: 99)</string>
+  <!-- bitmapwar-web2-1920/ExtractCancel.xml -->
+  <string name="s1e2pgprk74v1r-n81_k74v" mz="n81">Cancel</string>
+  <!-- bitmapwar-web2-1920/ExtractItem.xml -->
+  <string name="s1e2pgprk74v1p-n67_atie" mz="txid">0x86d...c8319</string>
+  <string name="s1e2pgprk74v1p-n69_atie" mz="status">xxxxxxxx</string>
+  <string name="s1e2pgprk74v1p-n70_atie" mz="create_time">xxxxxxxxxxxxx</string>
+  <string name="s1e2pgprk74v1p-n71_atie" mz="operations">xxxxxxxxxxxxx</string>
+  <!-- bitmapwar-web2-1920/ExtractOK.xml -->
+  <string name="s1e2pgprk74v1s-n88_k74v" mz="n88">Confirm</string>
+  <!-- bitmapwar-web2-1920/ExtractProfit.xml -->
+  <string name="s1e2pgprrw7918-n51_atie" mz="n51">Extract Profit</string>
+  <string name="s1e2pgprrw7918-n52_atie" mz="n52">Profit:</string>
+  <string name="s1e2pgprrw7918-n53_atie" mz="n53">Enter Amount:</string>
+  <string name="s1e2pgprrw7918-n54_atie" mz="n54">Fee:</string>
+  <string name="s1e2pgprrw7918-n55_atie" mz="n55">ID</string>
+  <string name="s1e2pgprrw7918-n56_atie" mz="n56">TXID</string>
+  <string name="s1e2pgprrw7918-n57_atie" mz="n57">Amount</string>
+  <string name="s1e2pgprrw7918-n58_atie" mz="n58">Status</string>
+  <string name="s1e2pgprrw7918-n59_atie" mz="n59">Create Time</string>
+  <string name="s1e2pgprrw7918-n60_atie" mz="n60">Operations</string>
+  <string name="s1e2pgprrw7918-n63_atie" mz="n63">Please do not close the browser or refresh the page during the withdrawal process. If you encounter any issues, please click the 'Resubmit' button in the order to retry the operation.</string>
+  <string name="s1e2pgprrw7918-n84_atie" mz="n84">0.000079200000000001 BTC</string>
+  <string name="s1e2pgprrw7918-n85_atie" mz="n85">0.004 BTC</string>
+  <!-- bitmapwar-web2-1920/LastRankingListItem.xml -->
+  <string name="s1e2pgprzk2i2g-n33_m1af" mz="owner_1">0x2f3..00955</string>
+  <string name="s1e2pgprzk2i2g-n71_knxw" mz="owner_2">0x2f3..00955</string>
+  <string name="s1e2pgprzk2i2g-n74_knxw" mz="owner_3">0x2f3..00955</string>
+  <string name="s1e2pgprzk2i2g-n77_knxw" mz="owner_x">0x2f3..00955</string>
+  <!-- bitmapwar-web2-1920/LeaderRankingItem.xml -->
+  <string name="s1e2pgprzk2i2k-n33_m1af" mz="owner_1">0x2f3..00955</string>
+  <string name="s1e2pgprzk2i2k-n71_knxw" mz="owner_2">0x2f3..00955</string>
+  <string name="s1e2pgprzk2i2k-n74_knxw" mz="owner_3">0x2f3..00955</string>
+  <string name="s1e2pgprzk2i2k-n77_knxw" mz="owner_x">0x2f3..00955</string>
+  <!-- bitmapwar-web2-1920/NetworkError.xml -->
+  <string name="s1e2pgprrw7919-n43_atie" mz="n43">Network Message</string>
+  <string name="s1e2pgprrw7919-n49_atie" mz="n49">There is an abnormality in your network, please try again later or refresh the page and check again.</string>
+  <!-- bitmapwar-web2-1920/PurchaseCancel.xml -->
+  <string name="s1e2pgprk74v1w-n162_atie" mz="n162">Cancel</string>
+  <!-- bitmapwar-web2-1920/PurchaseItem.xml -->
+  <string name="s1e2pgprk74v1y-n146_atie" mz="txid">0x86d...c8319</string>
+  <string name="s1e2pgprk74v1y-n148_atie" mz="soldier">xxxxxxxx</string>
+  <string name="s1e2pgprk74v1y-n149_atie" mz="create_time">xxxxxxxxxxxxx</string>
+  <string name="s1e2pgprk74v1y-n150_atie" mz="status">xxxxxxxxxxxxx</string>
+  <!-- bitmapwar-web2-1920/PurchaseOK.xml -->
+  <string name="s1e2pgprk74v1x-n160_atie" mz="n160">Confirm</string>
+  <!-- bitmapwar-web2-1920/PurchasePanel.xml -->
+  <string name="s1e2pgprrw7915-n133_atie" mz="n133">Purchase</string>
+  <string name="s1e2pgprrw7915-n134_atie" mz="n134">ID</string>
+  <string name="s1e2pgprrw7915-n135_atie" mz="n135">TXID</string>
+  <string name="s1e2pgprrw7915-n136_atie" mz="n136">Fee</string>
+  <string name="s1e2pgprrw7915-n137_atie" mz="n137">Soldier</string>
+  <string name="s1e2pgprrw7915-n138_atie" mz="n138">Create Time</string>
+  <string name="s1e2pgprrw7915-n139_atie" mz="n139">Status</string>
+  <string name="s1e2pgprrw7915-n142_atie" mz="n142">Please do not close the browser or refresh the page during the recharge process. If you encounter any issues, please click the 'Search' button in the order and manually enter the TX hash to retry the operation.</string>
+  <string name="s1e2pgprrw7915-n165_atie" mz="n165">1 = {t=0.004} BTC</string>
+  <string name="s1e2pgprrw7915-n167_i9x0" mz="n167">Purchase quantity</string>
+  <string name="s1e2pgprrw7915-n168_i9x0" mz="n168">Payment Charge</string>
+  <string name="s1e2pgprrw7915-n170_i9x0-0" mz="n170">Profit</string>
+  <string name="s1e2pgprrw7915-n170_i9x0-1" mz="n170">Wallet</string>
+  <!-- bitmapwar-web2-1920/SearchTxPanel.xml -->
+  <string name="s1e2pgprrw791b-n26_atie" mz="n26">Search Tx</string>
+  <string name="s1e2pgprrw791b-n29_atie" mz="n29">Confirm</string>
+  <string name="s1e2pgprrw791b-n31_atie" mz="n31">Cancel</string>
+  <string name="s1e2pgprrw791b-n33_atie" mz="n33">Please enter the blockchain order hash starting with '0x</string>
+  <!-- bitmapwar-web2-1920/SettlementPanel.xml -->
+  <string name="s1e2pgprrw7917-n90_atie" mz="n90">Settlement</string>
+  <string name="s1e2pgprrw7917-n91_atie" mz="n91">Ranking</string>
+  <string name="s1e2pgprrw7917-n92_atie" mz="n92">Team</string>
+  <string name="s1e2pgprrw7917-n93_atie" mz="n93">Land</string>
+  <string name="s1e2pgprrw7917-n94_atie" mz="n94">Live Soldier</string>
+  <string name="s1e2pgprrw7917-n95_atie" mz="n95">Soldier Loss</string>
+  <string name="s1e2pgprrw7917-n112_atie" mz="textResult">Your Land: {myland=0}
+Your Soldier: {mys=0}
+Your Loss: {mylost=0}
+Your Earnings(BTC):</string>
+  <!-- bitmapwar-web2-1920/TabRankingBtn.xml -->
+  <string name="s1e2pgprzk2i2b-n9_l1fp" mz="n9">Profit</string>
+  <!-- bitmapwar-web2-1920/TipCancel.xml -->
+  <string name="s1e2pgprrw791k-n40_atie" mz="n40">Cancel</string>
+  <!-- bitmapwar-web2-1920/TipsConfirm.xml -->
+  <string name="s1e2pgprrw791l-n38_atie" mz="n38">Confirm</string>
+  <!-- bitmapwar-web2-1920/TipsPanel.xml -->
+  <string name="s1e2pgprrw791a-n35_atie" mz="n35">Tips</string>
+  <string name="s1e2pgprrw791a-n41_atie" mz="n41">After placing soldiers, your camp cannot be modified in this battle.Once placed, soldiers will begin to move and occupy the plot. When you encounter soldiers from a local camp that are more numerous than your own, your soldiers will be deducted and stop moving.</string>
+  <!-- bitmapwar-web2-1920/TotalRankingPage.xml -->
+  <string name="s1e2pgprzk2ig-n13_l1fp" mz="n13">Ranking</string>
+  <string name="s1e2pgprzk2ig-n14_l1fp" mz="n14">ID</string>
+  <string name="s1e2pgprzk2ig-n15_l1fp" mz="n15">Profit</string>
+  <string name="s1e2pgprzk2ig-n18_zk2i" mz="n18">Profit</string>
+  <string name="s1e2pgprzk2ig-n19_zk2i" mz="n19">Points</string>
+  <string name="s1e2pgprzk2ig-n20_zk2i" mz="n20">Jackpot</string>
+  <string name="s1e2pgprzk2ig-n21_zk2i" mz="n21">Jackpot(BW)</string>
+  <string name="s1e2pgprzk2ig-n23_zk2i" mz="n23">Your Ranking:</string>
+  <string name="s1e2pgprzk2ig-n25_zk2i" mz="n25">Order</string>
+  <string name="s1e2pgprzk2ig-n26_zk2i" mz="n26">Points</string>
+  <string name="s1e2pgprzk2ig-n27_zk2i" mz="n27">Jackpot</string>
+  <!-- bitmapwar-web4-1920/bitmapwar-web4-1920.xml -->
+  <string name="f4vhmrf0siulc-n7_g74k" mz="n7">No Message...</string>
+  <string name="f4vhmrf0siulc-n10_g74k" mz="n10">No message</string>
+  <!-- bitmapwar-web5-1920/GetProfitPanel.xml -->
+  <string name="merndwu5i9x0i-n6_smas" mz="n6">Profit</string>
+  <string name="merndwu5i9x0i-n7_smas" mz="n7">Time</string>
+  <string name="merndwu5i9x0i-n8_smas" mz="n8">Team</string>
+  <string name="merndwu5i9x0i-n9_smas" mz="n9">Profit</string>
+  <string name="merndwu5i9x0i-n10_smas" mz="n10">Soldier Loss</string>
+</resources>
